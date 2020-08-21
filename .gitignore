@@ -1,0 +1,8 @@
+
+mysite/mysite/__pycache__/
+
+mysite/login/__pycache__/
+
+mysite/login/migrations/__pycache__/
+
+mysite/db.sqlite3
