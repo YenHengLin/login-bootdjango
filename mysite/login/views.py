@@ -5,4 +5,4 @@ from django.http import HttpResponse
 
 
 def loginUser(request):
-    return render(request,'login/loginU.html')
+    return render(request,'login/login.html')
